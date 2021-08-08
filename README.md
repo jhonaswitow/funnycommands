@@ -25,3 +25,8 @@ message.channel.send(embed) //images of people kissing will come out...
 .hug() //Returns anime image hugging
 .cafune() //Returns anime image cafuné
 ```
+
+# How to install?
+```js
+npm i funnycommands
+```
