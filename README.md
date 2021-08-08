@@ -20,4 +20,6 @@ message.channel.send(funnycommands.kiss) //images of people kissing will come ou
 ```js
 .kiss() //Returns anime image kissing... (As stated above)
 .way() //Returns anime image crashing...
+.hug() //Returns anime image hugging
+.cafune() //Returns anime image cafuné
 ```
