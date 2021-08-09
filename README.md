@@ -26,7 +26,6 @@ message.channel.send(embed) //images of people kissing will come out...
 `.slap`     | Anime crashing | `funnycommands.slap`
 `.hug`     | Anime hugging  | `funnycommands.hug`
 `.cafune`  | Anime cafuné   | `funnycommands.cafune`
-`.bit`     | Anime bit | `funnycommands.bit` 
 `.ship`    | Number from 1-100 | `funnycommands.ship`
 
 
