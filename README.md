@@ -1,11 +1,11 @@
-# Package FunnyCommands
+### Package FunnyCommands
 - Tired of looking for pictures of people kissing, or slapping to create commands for your bot? So this package was created for you!
 
 
-# What does she have?
+### What does she have?
 - for now there are only two functions inside it... one is to send anime images kissing and the other is to show anime images hitting each other in the face... But in the future, there will be more things to help you!
 
-# How to use?
+### How to use?
 ```js
 const funnycommands = new funny()
 
@@ -18,15 +18,20 @@ const embed = new Discord.MessageEmbed()
 message.channel.send(embed) //images of people kissing will come out...
 ```
 
-# Others...
-```js
-.kiss() //Returns anime image kissing... (As stated above)
-.way() //Returns anime image crashing...
-.hug() //Returns anime image hugging
-.cafune() //Returns anime image cafuné
-```
+### Others...
 
-# How to install?
+  Functions    | Return       |  Examples
+------------ | ------------ | ------------
+`.kiss`    | Anime kissing  | `funnycommands.kiss`
+`.slap`     | Anime crashing | `funnycommands.slap`
+`.hug`     | Anime hugging  | `funnycommands.hug`
+`.cafune`  | Anime cafuné   | `funnycommands.cafune`
+`.bit`     | Anime bit | `funnycommands.bit` 
+`.ship`    | Number from 1-100 | `funnycommands.ship`
+
+
+
+### How to install?
 ```js
 npm i funnycommands
 ```
