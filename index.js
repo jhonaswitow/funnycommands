@@ -1,3 +1,4 @@
+//lets
 let cafu = [
   "https://media.discordapp.net/attachments/863510049514061824/871356819199639592/desconhecido.gif",
     "https://media.discordapp.net/attachments/863510049514061824/871356842159271986/desconhecido.gif",
@@ -48,7 +49,8 @@ let tap = [
  let mor = ["https://c.tenor.com/RS7jYiWS9EcAAAAC/bite-anime.gif", "https://c.tenor.com/w4T323o46uYAAAAC/anime-bite.gif", "https://pa1.narvii.com/6045/a9bb6d864ebe7e01ed647b78fc652f15116716c4_hq.gif", "http://gifimage.net/wp-content/uploads/2017/09/anime-bite-gif-4.gif", "https://c.tenor.com/8UjO54apiUIAAAAC/gjbu-bite.gif", "https://c.tenor.com/DBwz1nSElowAAAAC/aruu-anime.gif", "https://media1.tenor.com/images/6dd67bd831780c4a754cb33697cddcb6/tenor.gif?itemid=10095819",]
  let random5 = mor[Math.floor(Math.random() * mor.length)] 
 
- class funny {
+//Class
+ module.exports = class funny {
     constructor() {
       this.c = random1
       this.b = random2
